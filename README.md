@@ -87,8 +87,8 @@ The sample responses for the fields mentioned above (*vectorOfLabels*, *vectorOf
 
 13. The reports contain information about classification and recognition accuracy per user, histogram of classification and recognition per user, ,time processing of model, confusion matrix, classification and recognition detailed by gender, handedness, users with arm injury and finally a .txt file with the general summary report of the model. 
 
-    ![GitHub Repository](filesReadme/Scores.png "Email")
+    ![GitHub Repository](filesReadme/Scores.png "Reports")
 
 14. The scores are shown to the public in order to maintain transparency between the results of the models given by the EMG community.
 
-    ![GitHub Repository](filesReadme/systemEvaluation.png "Email")
+    ![GitHub Repository](filesReadme/SystemEvaluation.png "System")
